@@ -19,7 +19,7 @@ if(isset($_GET['raw'])){
     }
 }
 
-$somtoday=new somtodayapi("154355@hethooghuis.nl","UY963ze[+","hethooghuis","23FX");
+$somtoday=new somtodayapi("email","password","schoolname","brin");
 
 if($sMode == "grades" || $sMode == "cijfers"){
     $jresp = $somtoday->getGrades();
