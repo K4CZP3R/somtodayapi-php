@@ -1,4 +1,5 @@
 # somToday-PHP-API
+(outdated, somtoday makes use of tickets now) [will update soon]
 Easy to use somToday API written in PHP (works like somtoday mobile application)
 
 License: [GPL](http://choosealicense.com/licenses/gpl-2.0/).
